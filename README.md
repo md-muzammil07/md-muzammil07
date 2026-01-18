@@ -3,19 +3,19 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=MD%20MUZAMIL&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Quality%20Engineer%20&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=200&section=header&text=MD%20MUZAMIL&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Quality%20Engineer%20&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/md-muzammil07">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Empowering%20developer%20to%20build%20quality%20software." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Empowering%20developer%20to%20build%20quality%20software." alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-Senior-70a5fd?style=for-the-badge" alt="focus"/>
-  <img src="https://img.shields.io/badge/5+_Years-On_GitHub-70a5fd?style=for-the-badge" alt="years"/>
+  <img src="https://img.shields.io/badge/Focus-Quality-58a6ff?style=for-the-badge" alt="focus"/>
+  <img src="https://img.shields.io/badge/5+_Years-On_GitHub-58a6ff?style=for-the-badge" alt="years"/>
   
-  <img src="https://komarev.com/ghpvc/?username=md-muzammil07&style=for-the-badge&color=70a5fd" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=md-muzammil07&style=for-the-badge&color=58a6ff" alt="views"/>
 </p>
 
 <!-- SOCIAL LINKS -->
@@ -29,14 +29,13 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-muzammil07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-muzammil07&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
 
 
-📍 **Bidar Karnataka**
+📍 **Karnataka**
 
 💼 **4**
 
-🔭 Currently working on **[github-action-ci-cd](https://github.com/md-muzammil07/github-action-ci-cd)**
 
 🌱 Currently learning **AI Testing**
 
@@ -55,17 +54,17 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-muzammil07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-muzammil07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-muzammil07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-muzammil07&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=md-muzammil07&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=md-muzammil07&theme=github_dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 </div>
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=md-muzammil07&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=md-muzammil07&theme=github_dark&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
 </div>
 
 ---
@@ -80,7 +79,9 @@
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/>
+<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="mocha"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+<img src="https://img.shields.io/badge/Allure-FF6600?style=for-the-badge&logo=qameta&logoColor=white" alt="allure"/>
 </div>
 
 </td>
@@ -92,6 +93,7 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
 </div>
 
 </td>
@@ -101,6 +103,13 @@
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="githubactions"/>
+<img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="circleci"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="azuredevops"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/>
 </div>
 
 </td>
@@ -114,11 +123,11 @@
 
 <div align="center">
 
-<a href="https://github.com/md-muzammil07/github-action-ci-cd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=md-muzammil07&repo=github-action-ci-cd&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="github-action-ci-cd"/></a>
-<a href="https://github.com/md-muzammil07/Playwright-Test-Runner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=md-muzammil07&repo=Playwright-Test-Runner&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Playwright-Test-Runner"/></a>
-<a href="https://github.com/md-muzammil07/Playwright-Typescript-Jest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=md-muzammil07&repo=Playwright-Typescript-Jest&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Playwright-Typescript-Jest"/></a>
-<a href="https://github.com/md-muzammil07/easycommerce_server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=md-muzammil07&repo=easycommerce_server&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="easycommerce_server"/></a>
-<a href="https://github.com/md-muzammil07/easyCommerce_client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=md-muzammil07&repo=easyCommerce_client&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="easyCommerce_client"/></a>
+<a href="https://github.com/md-muzammil07/github-action-ci-cd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=md-muzammil07&repo=github-action-ci-cd&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="github-action-ci-cd"/></a>
+<a href="https://github.com/md-muzammil07/Playwright-Test-Runner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=md-muzammil07&repo=Playwright-Test-Runner&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Playwright-Test-Runner"/></a>
+<a href="https://github.com/md-muzammil07/Playwright-Typescript-Jest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=md-muzammil07&repo=Playwright-Typescript-Jest&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Playwright-Typescript-Jest"/></a>
+<a href="https://github.com/md-muzammil07/easycommerce_server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=md-muzammil07&repo=easycommerce_server&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="easycommerce_server"/></a>
+<a href="https://github.com/md-muzammil07/easyCommerce_client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=md-muzammil07&repo=easyCommerce_client&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="easyCommerce_client"/></a>
 
 </div>
 
@@ -235,7 +244,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=120&section=footer" width="100%"/>
 
 **⭐ From [md-muzammil07](https://github.com/md-muzammil07) with ❤️**
 
